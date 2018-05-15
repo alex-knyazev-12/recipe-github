@@ -2,3 +2,5 @@
 #.gitignore
 #ignore htmls
 *.html
+#vim swaps
+*.swp
